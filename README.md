@@ -1,5 +1,5 @@
 # Homemade IoT Sensors
-## Bring your own device
+### Bring your own device
 If you have started an IoT DIY project, already invested in your own IoT hardware and developed the IoT software, then you can integrate your sensor data with the growgreen.io OpenData Api services, both in The Cloud or on The Edge.
 
 Your sensor data from the External Sensors is automatically integrated and available in your GrowGreen Journal.
