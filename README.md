@@ -1,2 +1,25 @@
-# homegrowers
-welcome page
+# Homemade IoT Sensors
+## Bring your own device
+If you have started an IoT DIY project, already invested in your own IoT hardware and developed the IoT software, then you can integrate your sensor data with the growgreen.io OpenData Api services, both in The Cloud or on The Edge.
+
+Your sensor data from the External Sensors is automatically integrated and available in your GrowGreen Journal.
+
+- LilyGo HiGrow
+- ESP8266
+- ESP32
+- Arduino
+
+ <a href="https://growgreen.io/sensors">
+      <img src="https://growgreen.io/img/res/home-made-iot.png" />
+    </a>
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
